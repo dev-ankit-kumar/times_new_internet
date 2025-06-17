@@ -1,0 +1,25 @@
+[
+  {
+    "name": "HDFC Millennia Credit Card",
+    "issuer": "HDFC",
+    "fee": 1000,
+    "reward_type": "Cashback",
+    "rate": "5% on Amazon/Flipkart, 1% elsewhere",
+    "eligibility": "Income > ₹30,000/month",
+    "perks": ["Lounge Access", "Amazon Vouchers"],
+    "apply_link": "#",
+    "image_url": "/cards/hdfc_millennia.png"
+  },
+  {
+    "name": "SBI SimplyCLICK Credit Card",
+    "issuer": "SBI",
+    "fee": 499,
+    "reward_type": "Reward Points",
+    "rate": "10x on online spend",
+    "eligibility": "Income > ₹20,000/month",
+    "perks": ["Cleartrip Voucher", "Fuel Surcharge Waiver"],
+    "apply_link": "#",
+    "image_url": "/cards/sbi_simplyclick.png"
+  }
+
+]
